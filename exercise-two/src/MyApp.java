@@ -21,6 +21,7 @@ public class MyApp {
         } else {
             result = "negativo";
         }
+     
 
         //Se muestra el resultado
         System.out.println("Su numero es "+result);
